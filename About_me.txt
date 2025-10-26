@@ -1,0 +1,5 @@
+Hi! I'm Ankam Nakshathra 👋
+
+I'm a passionate ML & NLP enthusiast with a strong foundation in Python, data structures, and algorithms. I enjoy building AI-powered projects, from mini-apps to advanced NLP systems, and sharing them on GitHub. 
+
+I’m always exploring new technologies, contributing to open-source, and learning ways to apply AI in real-world applications.
